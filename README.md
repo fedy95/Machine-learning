@@ -12,4 +12,5 @@
 2. [Basic models: nearest neighbors and trees](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-01-Basic_classifiers.pdf);
 3. [Overfitting, testing, validating and measuring](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-02-Basic_concepts.pdf);
 4. [Linear models](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-03-Linear_models.pdf);
-5. [Probabilistic](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-05-Probabilistic.pdf).
+5. [Probabilistic](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-05-Probabilistic.pdf);
+6. [Feature Selection and Extraction](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-06-Feature-Selection-and-Extraction.pdf).
