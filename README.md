@@ -14,3 +14,6 @@
 4. [Linear models](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-03-Linear_models.pdf);
 5. [Probabilistic](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-05-Probabilistic.pdf);
 6. [Feature Selection and Extraction](https://github.com/fedy95/MachineLearning/blob/master/theory/Lec-06-Feature-Selection-and-Extraction.pdf).
+
+## Books
+- [Байесовская классификация. Непараметрические методы](https://github.com/fedy95/MachineLearning/blob/master/theory/Voron-ML-Bayes1.pdf)
